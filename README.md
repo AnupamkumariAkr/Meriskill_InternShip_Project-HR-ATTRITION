@@ -61,3 +61,25 @@ Create Visualizations to present findings effectively showing the ability to man
 
 
 ![HR ATTRITION 1](https://github.com/AnupamkumariAkr/Meriskill_InternShip_Project-HR-ATTRITION/assets/157566167/648d1a84-b225-4c4f-bbbb-93eb17063683)
+
+
+
+
+![HR ATTRITION2](https://github.com/AnupamkumariAkr/Meriskill_InternShip_Project-HR-ATTRITION/assets/157566167/59d09b6f-6b80-4b1e-8f8c-8c1d0185fc06)
+
+
+
+
+![HR ATTRITION3](https://github.com/AnupamkumariAkr/Meriskill_InternShip_Project-HR-ATTRITION/assets/157566167/b2641b0e-643a-4a39-a163-5d7b4af0e5ef)
+
+
+
+
+
+
+![HR ATTRITION4](https://github.com/AnupamkumariAkr/Meriskill_InternShip_Project-HR-ATTRITION/assets/157566167/0ab24645-d518-422e-86db-3a59da4bae5f)
+
+
+
+
+![HR ATTRITION5](https://github.com/AnupamkumariAkr/Meriskill_InternShip_Project-HR-ATTRITION/assets/157566167/bf0d8dec-6fe8-49fa-95df-e1622b376029)
