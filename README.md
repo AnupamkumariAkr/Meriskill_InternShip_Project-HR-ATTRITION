@@ -58,4 +58,6 @@ Employees at the Entry Level has the highest attrition rate with 143 attrition c
 2.Uncover the factors responsible for Attrition in specific organisations and the rate of Attrition as caused by those insights.
 
 Create Visualizations to present findings effectively showing the ability to manipulate and derive insights from large datasets, enabling to make data-driven recommendations for optimizing business organisation.
+
+
 ![HR ATTRITION 1](https://github.com/AnupamkumariAkr/Meriskill_InternShip_Project-HR-ATTRITION/assets/157566167/648d1a84-b225-4c4f-bbbb-93eb17063683)
